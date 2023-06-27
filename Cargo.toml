@@ -2,6 +2,14 @@
 name = "rust_mkdir"
 version = "0.1.0"
 edition = "2021"
+authors = ["Truthixify truthixify@gmail.com"]
+license = "MIT OR Apache-2.0"
+description = "A tool to create directories"
+readme = "README.md"
+homepage = "https://github.com/Truthixify/rust_mkdir"
+repository = "https://github.com/Truthixify/rust_mkdir"
+keywords = ["cli", "directory", "linux"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
